@@ -1,0 +1,10 @@
+{
+  "organisation": "Fabrikam Logistics",
+  "review_date": "2026-11-17",
+  "previous_score": 96.2,
+  "no_ci_threshold": 15,
+  "owners": {
+    "cmdb": "Configuration manager (Lucía Ruiz)",
+    "process": "Service management lead (Marta Serrano)"
+  }
+}

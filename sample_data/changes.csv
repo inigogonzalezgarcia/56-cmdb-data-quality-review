@@ -1,0 +1,9 @@
+Change,CI,Implemented,State,Summary
+CHG7101,CI4004,2026-11-04,Successful,Windows 11 upgrade
+CHG7102,CI4005,2026-11-05,Successful,Windows 11 upgrade
+CHG7103,CI4006,2026-11-06,Successful,Windows 11 upgrade
+CHG7110,CI1099,2026-11-08,Successful,Reporting service restart and patching
+CHG7111,CI2007,2026-10-28,Successful,Database patching
+CHG7112,CI3001,2026-10-30,Successful,Core switch firmware
+CHG7113,CI2008,2026-11-11,Cancelled,WMS upgrade
+CHG7114,CI1005,2026-10-23,Successful,Backup agent update

@@ -1,0 +1,11 @@
+Service,Criticality,Owner
+Order management,high,agil
+Warehouse management,high,tmoya
+Customer returns portal,high,vrubio
+Payroll,high,iblanco
+Finance reporting,medium,sleon
+Email and collaboration,medium,lruiz
+File shares,medium,mserrano
+Fleet tracking,medium,rmarin
+Printing,low,dprieto
+Intranet,low,iblanco

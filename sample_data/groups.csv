@@ -1,0 +1,9 @@
+Group,Manager,Active
+Service Desk,lruiz,True
+Field Services,dprieto,True
+Windows Servers,mserrano,True
+Linux Servers,pvidal,True
+Network,cnieto,True
+Database,jortega,True
+Applications,jortega,True
+Infrastructure Operations,mserrano,False

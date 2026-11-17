@@ -1,0 +1,18 @@
+User,Name,Enabled,Department
+lruiz,Lucía Ruiz,True,IT
+dprieto,Daniel Prieto,True,IT
+mserrano,Marta Serrano,True,IT
+pvidal,Pablo Vidal,True,IT
+cnieto,Carmen Nieto,True,IT
+jortega,Javier Ortega,True,IT
+agil,Ana Gil,True,Operations
+rmarin,Raúl Marín,True,Operations
+sleon,Sara León,True,Finance
+ecano,Elena Cano,True,Finance
+vrubio,Víctor Rubio,True,Sales
+nsoto,Nuria Soto,True,Sales
+iblanco,Irene Blanco,True,HR
+tmoya,Tomás Moya,True,Warehouse
+bpena,Beatriz Peña,True,Warehouse
+hcampos,Hugo Campos,True,Legal
+jmorales,Jorge Morales,False,IT

@@ -1,0 +1,115 @@
+Source,Name,Serial,IP,OS,Location,LastSeen
+vCenter,esx-01.fabrikam.local,FBK41X7Q,10.10.1.11,VMware ESXi 8.0.3,,2026-11-17
+vCenter,esx-02.fabrikam.local,FBK42X7Q,10.10.1.12,VMware ESXi 8.0.3,,2026-11-17
+vCenter,esx-03.fabrikam.local,FBK43X7Q,10.10.1.13,VMware ESXi 8.0.3,,2026-11-17
+vCenter,esx-04.fabrikam.local,FBK44X7Q,10.10.1.14,VMware ESXi 8.0.3,,2026-11-17
+Active Directory,BKP-01,,10.10.1.20,Windows Server 2022 Standard,,2026-11-16
+Active Directory,SQL-01,,10.10.1.30,Windows Server 2019 Standard,,2026-11-16
+Active Directory,SQL-2014-LEG,,10.10.1.31,Windows Server 2012 R2 Standard,,2026-09-04
+Network scan,nas-01,NS83K2M1,10.10.1.40,,,2026-11-17
+Network scan,san-01,,10.10.1.41,,,2026-11-17
+vCenter,dc-01,,10.10.2.20,Windows Server 2022 Standard,,2026-11-17
+Active Directory,DC-01,,10.10.2.20,Windows Server 2022 Standard,,2026-11-16
+vCenter,dc-02,,10.10.2.21,Windows Server 2022 Standard,,2026-11-17
+Active Directory,DC-02,,10.10.2.21,Windows Server 2022 Standard,,2026-11-16
+vCenter,fs-01,,10.10.2.80,Windows Server 2022 Standard,,2026-11-17
+Active Directory,FS-01,,10.10.2.80,Windows Server 2022 Standard,,2026-11-16
+vCenter,prn-01,,10.10.2.81,Windows Server 2022 Standard,,2026-11-17
+Active Directory,PRN-01,,10.10.2.81,Windows Server 2022 Standard,,2026-11-16
+vCenter,intra-01,,10.10.2.24,Windows Server 2019 Standard,,2026-11-17
+Active Directory,INTRA-01,,10.10.2.24,Windows Server 2019 Standard,,2026-11-16
+vCenter,ord-app-01,,10.10.2.25,Red Hat Enterprise Linux 9.4,,2026-11-17
+vCenter,ord-app-02,,10.10.2.26,Red Hat Enterprise Linux 9.4,,2026-11-17
+vCenter,ord-db-01,,10.10.2.27,Red Hat Enterprise Linux 9.4,,2026-11-17
+vCenter,wms-app-01,,10.10.2.28,Windows Server 2019 Standard,,2026-11-17
+Active Directory,WMS-APP-01,,10.10.2.28,Windows Server 2019 Standard,,2026-11-16
+vCenter,wms-db-01,,10.10.2.29,Windows Server 2019 Standard,,2026-11-17
+Active Directory,WMS-DB-01,,10.10.2.29,Windows Server 2019 Standard,,2026-11-16
+vCenter,pay-app-01,,10.10.2.30,Red Hat Enterprise Linux 8.10,,2026-11-17
+vCenter,rpt-02,,10.10.2.31,Windows Server 2022 Standard,,2026-11-17
+Active Directory,RPT-02,,10.10.2.31,Windows Server 2022 Standard,,2026-11-16
+vCenter,flt-app-01,,10.10.2.32,Ubuntu 22.04 LTS,,2026-11-17
+vCenter,mon-01,,10.10.2.82,Ubuntu 24.04 LTS,,2026-11-17
+vCenter,wsus-01,,10.10.2.34,Windows Server 2022 Standard,,2026-11-17
+Active Directory,WSUS-01,,10.10.2.34,Windows Server 2022 Standard,,2026-11-16
+vCenter,jump-01,,10.10.2.35,Windows Server 2022 Standard,,2026-11-17
+Active Directory,JUMP-01,,10.10.2.35,Windows Server 2022 Standard,,2026-11-16
+vCenter,old-rpt-02,,10.10.2.36,Windows Server 2016 Standard,,2026-08-13
+vCenter,test-web-03,,10.10.2.37,Ubuntu 20.04 LTS,,2026-07-09
+Network scan,fw-mad-01,FOC2701N0,10.10.0.1,FortiOS 7.4.4,,2026-11-17
+Network scan,sw-mad-core,FOC2711N1,10.10.0.2,Cisco IOS XE 17.9,,2026-11-17
+Network scan,sw-mad-f1,FOC2721N2,10.10.0.11,Cisco IOS XE 17.9,,2026-11-17
+Network scan,sw-mad-f2,FOC2731N3,10.10.0.12,Cisco IOS XE 17.9,,2026-11-17
+Network scan,sw-mad-f3,FOC2741N4,10.10.0.13,Cisco IOS XE 17.9,,2026-11-17
+Network scan,sw-zar-01,FOC2751N5,10.20.0.2,Cisco IOS XE 17.9,,2026-11-17
+Network scan,rtr-vlc-01,FOC2761N6,10.30.0.1,Cisco IOS XE 17.9,,2026-11-17
+Network scan,wlc-mad-01,,10.10.0.20,Cisco IOS XE 17.12,,2026-11-17
+Active Directory,PC-MAD-001,,10.10.40.1,Windows 10 Enterprise 22H2,,2026-11-11
+Active Directory,PC-MAD-002,,10.10.40.2,Windows 10 Enterprise 22H2,,2026-11-13
+Active Directory,PC-MAD-003,,10.10.40.3,Windows 10 Enterprise 22H2,,2026-11-17
+Active Directory,PC-MAD-004,,10.10.40.4,Windows 11 Enterprise 24H2,,2026-11-14
+Active Directory,PC-MAD-005,,10.10.40.5,Windows 11 Enterprise 24H2,,2026-11-12
+Active Directory,PC-MAD-006,,10.10.40.6,Windows 11 Enterprise 24H2,,2026-11-13
+Active Directory,PC-MAD-007,,10.10.40.7,Windows 11 Enterprise 24H2,,2026-11-15
+Active Directory,PC-MAD-008,,10.10.40.8,Windows 11 Enterprise 24H2,,2026-11-11
+Active Directory,PC-MAD-009,,10.10.40.9,Windows 11 Enterprise 24H2,,2026-11-13
+Active Directory,PC-MAD-010,,10.10.40.10,Windows 11 Enterprise 24H2,,2026-11-14
+Active Directory,PC-MAD-011,,10.10.40.11,Windows 11 Enterprise 24H2,,2026-11-12
+Active Directory,PC-MAD-012,,10.10.40.12,Windows 11 Enterprise 24H2,,2026-11-16
+Active Directory,PC-MAD-013,,10.10.40.13,Windows 11 Enterprise 24H2,,2026-11-17
+Active Directory,PC-MAD-014,,10.10.40.14,Windows 11 Enterprise 24H2,,2026-11-15
+Active Directory,PC-MAD-015,,10.10.40.15,Windows 11 Enterprise 24H2,,2026-11-13
+Active Directory,PC-MAD-016,,10.10.40.16,Windows 11 Enterprise 24H2,,2026-11-17
+Active Directory,PC-MAD-017,,,Windows 11 Enterprise 24H2,,2026-08-04
+Active Directory,PC-MAD-018,,,Windows 11 Enterprise 24H2,,2026-08-03
+Active Directory,PC-MAD-019,,10.10.40.19,Windows 11 Enterprise 24H2,,2026-11-15
+Active Directory,PC-MAD-020,,10.10.40.20,Windows 11 Enterprise 24H2,,2026-11-13
+Active Directory,PC-MAD-021,,10.10.40.21,Windows 11 Enterprise 24H2,,2026-11-16
+Active Directory,PC-MAD-022,,10.10.40.22,Windows 11 Enterprise 24H2,,2026-11-17
+Active Directory,PC-MAD-023,,10.10.40.23,Windows 11 Enterprise 24H2,,2026-11-11
+Active Directory,PC-MAD-024,,10.10.40.24,Windows 11 Enterprise 24H2,,2026-11-13
+Intune,LT-001,5CG3101,,Windows 11 Enterprise 24H2,,2026-11-14
+Intune,LT-002,5CG3102,,Windows 11 Enterprise 24H2,,2026-11-17
+Intune,LT-003,5CG3103,,Windows 11 Enterprise 24H2,,2026-11-08
+Intune,LT-004,5CG3104,,Windows 11 Enterprise 24H2,,2026-11-09
+Intune,LT-005,5CG3105,,Windows 11 Enterprise 24H2,,2026-11-15
+Intune,LT-006,5CG3106,,Windows 11 Enterprise 24H2,,2026-11-11
+Intune,LT-007,5CG3107,,Windows 11 Enterprise 24H2,,2026-11-17
+Intune,LT-008,5CG3108,,Windows 11 Enterprise 24H2,,2026-11-15
+Intune,LT-009,5CG3109,,Windows 11 Enterprise 24H2,,2026-11-11
+Intune,LT-010,5CG3110,,Windows 11 Enterprise 24H2,,2026-11-14
+Intune,LT-011,5CG3111,,Windows 11 Enterprise 24H2,,2026-11-15
+Intune,LT-012,5CG3112,,Windows 11 Enterprise 24H2,,2026-11-10
+Intune,LT-013,5CG3113,,Windows 11 Enterprise 24H2,,2026-11-16
+Intune,LT-014,5CG3114,,Windows 11 Enterprise 24H2,,2026-11-08
+Intune,LT-015,5CG3115,,Windows 11 Enterprise 24H2,,2026-11-14
+Intune,LT-016,5CG3116,,Windows 11 Enterprise 24H2,,2026-11-09
+Intune,LT-017,5CG3117,,Windows 11 Enterprise 24H2,,2026-11-14
+Intune,LT-018,5CG3118,,Windows 11 Enterprise 24H2,,2026-11-10
+Intune,LT-019,5CG3119,,Windows 11 Enterprise 24H2,,2026-11-15
+Intune,LT-020,5CG3120,,Windows 11 Enterprise 24H2,,2026-11-11
+Intune,LT-021,5CG3121,,Windows 11 Enterprise 24H2,,2026-11-15
+Intune,LT-022,5CG3122,,Windows 11 Enterprise 24H2,,2026-11-16
+Intune,LT-023,5CG3123,,Windows 11 Enterprise 24H2,,2026-11-14
+Intune,LT-024,5CG3124,,Windows 11 Enterprise 24H2,,2026-11-09
+Intune,LT-025,5CG3125,,Windows 11 Enterprise 24H2,,2026-08-24
+Intune,LT-026,5CG3126,,Windows 11 Enterprise 24H2,,2026-08-23
+Intune,LT-027,5CG3127,,Windows 11 Enterprise 24H2,,2026-08-22
+Intune,LT-028,5CG3128,,Windows 11 Enterprise 24H2,,2026-11-15
+Intune,LT-029,5CG3129,,Windows 11 Enterprise 24H2,,2026-11-14
+Intune,LT-030,5CG3130,,Windows 11 Enterprise 24H2,,2026-11-15
+Intune,LT-031,5CG3131,,Windows 11 Enterprise 24H2,,2026-11-15
+Intune,LT-032,5CG3132,,Windows 11 Enterprise 24H2,,2026-11-09
+Intune,LT-034,5CG3134,,Windows 11 Enterprise 24H2,,2026-11-10
+Intune,LT-035,5CG3135,,Windows 11 Enterprise 24H2,,2026-11-12
+Intune,LT-036,5CG3136,,Windows 11 Enterprise 24H2,,2026-11-17
+Intune,LT-037,5CG3137,,Windows 11 Enterprise 24H2,,2026-11-17
+Intune,LT-038,5CG3138,,Windows 11 Enterprise 24H2,Zaragoza warehouse,2026-11-08
+Intune,LT-039,5CG3139,,Windows 11 Enterprise 24H2,,2026-11-12
+Intune,LT-040,5CG3140,,Windows 11 Enterprise 24H2,,2026-11-17
+vCenter,vm-temp-migr,,10.10.2.95,Windows Server 2022 Standard,,2026-11-17
+Active Directory,SRV-TEST-NEW,,10.10.2.96,Windows Server 2022 Standard,,2026-11-15
+Network scan,sw-zar-02,FOC2799X1Z,10.20.0.3,Cisco IOS XE 17.9,,2026-11-17
+Intune,LT-090,5CG3190,,Windows 11 Enterprise 24H2,,2026-11-13
+Intune,LT-091,5CG3191,,Windows 11 Enterprise 24H2,,2026-11-12
+Intune,LT-092,5CG3192,,Windows 11 Enterprise 24H2,,2026-11-17
